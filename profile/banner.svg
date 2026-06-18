@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#c4b5fd"/>
+      <stop offset="45%"  stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#6ee7b7"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="12%" cy="90%" r="45%">
+      <stop offset="0%" stop-color="#6d28d9" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="88%" cy="10%" r="40%">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g3" cx="50%" cy="50%" r="35%">
+      <stop offset="0%" stop-color="#059669" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#059669" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="900" height="220" fill="#060608" rx="12"/>
+  <rect width="900" height="220" fill="url(#g1)" rx="12"/>
+  <rect width="900" height="220" fill="url(#g2)" rx="12"/>
+  <rect width="900" height="220" fill="url(#g3)" rx="12"/>
+
+  <text
+    x="450" y="100"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-weight="700" font-size="54" letter-spacing="-1.5"
+    text-anchor="middle" dominant-baseline="middle"
+    fill="url(#nameGrad)"
+  >Ilya Pushkarev</text>
+
+  <text
+    x="450" y="152"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-weight="400" font-size="17.5" letter-spacing="0.3"
+    text-anchor="middle" dominant-baseline="middle"
+    fill="rgba(255,255,255,0.52)"
+  >AI Engineer · LLM / RAG · Integrations &amp; Automation</text>
+
+  <text
+    x="450" y="192"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-weight="300" font-size="11" letter-spacing="3.5"
+    text-anchor="middle" dominant-baseline="middle"
+    fill="rgba(255,255,255,0.18)"
+  >LANGCHAIN · PGVECTOR · OPENROUTER · DOCKER · ASTRO</text>
+</svg>
