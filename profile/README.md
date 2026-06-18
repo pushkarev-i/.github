@@ -8,7 +8,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logoColor=white)
 
 <br/>
 
@@ -16,8 +16,8 @@
 
 <br/><br/>
 
-Инженер по ИИ с опытом построения RAG-систем, LLM-пайплайнов и интеграции с CRM, телефонией и мессенджерами.<br/>
-Ищу позицию **AI / Backend-инженера** в команду.
+Внедряю LLM/RAG в продукты, связываю CRM, телефонию и мессенджеры в единое решение. Довожу до прода и измеримого результата. 4+ года коммерческого опыта.<br/><br/>
+Рассматриваю позицию **инженера по ИИ-интеграциям** в штат.
 
 <br/>
 
