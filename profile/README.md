@@ -6,16 +6,6 @@
 
 <img src="https://skillicons.dev/icons?i=ts,nodejs,postgres,docker,astro&theme=dark" />
 
-<br/><br/>
-
-```ts
-const ilya = {
-  focus:   ["RAG pipelines", "LLM integrations", "CRM & telephony automation"],
-  stack:   ["LangChain.js", "OpenRouter", "pgvector", "Astro", "Docker"],
-  contact: "ilia@pushkarev.online",
-  site:    "work.pushkarev.online",
-};
-```
 
 <br/>
 
