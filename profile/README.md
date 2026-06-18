@@ -21,7 +21,7 @@
 
 <br/>
 
-[![work.pushkarev.online](https://github-readme-stats.vercel.app/api/pin/?username=pushkarev-i&repo=work.pushkarev.online&theme=dark&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7dd3fc&text_color=94a3b8)](https://work.pushkarev.online)
+[![work.pushkarev.online](https://raw.githubusercontent.com/pushkarev-i/.github/main/profile/project-card.svg)](https://work.pushkarev.online)
 
 <br/>
 

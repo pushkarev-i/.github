@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 148" width="460" height="148">
+  <defs>
+    <linearGradient id="bd" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#c4b5fd" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7dd3fc" stop-opacity="0.12"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#6d28d9" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="460" height="148" fill="#0d1117" rx="10"/>
+  <rect width="460" height="148" fill="url(#glow)" rx="10"/>
+  <rect width="460" height="148" fill="none" stroke="url(#bd)" stroke-width="1" rx="10"/>
+
+  <!-- Globe icon -->
+  <circle cx="34" cy="34" r="13" fill="none" stroke="#7dd3fc" stroke-width="1.4"/>
+  <ellipse cx="34" cy="34" rx="6" ry="13" fill="none" stroke="#7dd3fc" stroke-width="1" opacity="0.6"/>
+  <line x1="21" y1="34" x2="47" y2="34" stroke="#7dd3fc" stroke-width="1" opacity="0.6"/>
+
+  <!-- Title -->
+  <text x="56" y="30" font-family="Inter,-apple-system,sans-serif" font-weight="600" font-size="15.5" fill="#c4b5fd">work.pushkarev.online</text>
+
+  <!-- Arrow -->
+  <text x="430" y="32" font-family="Inter,sans-serif" font-size="14" fill="rgba(255,255,255,0.2)">↗</text>
+
+  <!-- Divider -->
+  <line x1="20" y1="50" x2="440" y2="50" stroke="rgba(255,255,255,0.07)" stroke-width="1"/>
+
+  <!-- Description -->
+  <text x="20" y="70" font-family="Inter,-apple-system,sans-serif" font-size="13" fill="rgba(255,255,255,0.65)">Сайт-резюме с RAG-ассистентом на базе знаний.</text>
+  <text x="20" y="88" font-family="Inter,-apple-system,sans-serif" font-size="13" fill="rgba(255,255,255,0.65)">Задайте вопрос ИИ — он ответит на основе резюме.</text>
+
+  <!-- Stack tags -->
+  <!-- TypeScript -->
+  <rect x="20"  y="106" width="84" height="22" rx="5" fill="rgba(49,120,198,0.25)" stroke="rgba(49,120,198,0.5)" stroke-width="0.8"/>
+  <text x="62"  y="121" font-family="Inter,sans-serif" font-size="11" fill="#7dd3fc" text-anchor="middle">TypeScript</text>
+
+  <!-- Node.js -->
+  <rect x="112" y="106" width="58" height="22" rx="5" fill="rgba(51,153,51,0.2)" stroke="rgba(51,153,51,0.45)" stroke-width="0.8"/>
+  <text x="141" y="121" font-family="Inter,sans-serif" font-size="11" fill="#6ee7b7" text-anchor="middle">Node.js</text>
+
+  <!-- LangChain -->
+  <rect x="178" y="106" width="78" height="22" rx="5" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.18)" stroke-width="0.8"/>
+  <text x="217" y="121" font-family="Inter,sans-serif" font-size="11" fill="rgba(255,255,255,0.7)" text-anchor="middle">LangChain.js</text>
+
+  <!-- pgvector -->
+  <rect x="264" y="106" width="64" height="22" rx="5" fill="rgba(65,105,225,0.2)" stroke="rgba(65,105,225,0.45)" stroke-width="0.8"/>
+  <text x="296" y="121" font-family="Inter,sans-serif" font-size="11" fill="#7dd3fc" text-anchor="middle">pgvector</text>
+
+  <!-- Docker -->
+  <rect x="336" y="106" width="54" height="22" rx="5" fill="rgba(36,150,237,0.2)" stroke="rgba(36,150,237,0.45)" stroke-width="0.8"/>
+  <text x="363" y="121" font-family="Inter,sans-serif" font-size="11" fill="#7dd3fc" text-anchor="middle">Docker</text>
+
+  <!-- Astro -->
+  <rect x="398" y="106" width="44" height="22" rx="5" fill="rgba(255,93,1,0.2)" stroke="rgba(255,93,1,0.45)" stroke-width="0.8"/>
+  <text x="420" y="121" font-family="Inter,sans-serif" font-size="11" fill="#fca5a5" text-anchor="middle">Astro</text>
+</svg>
