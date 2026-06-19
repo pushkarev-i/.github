@@ -25,8 +25,6 @@
 
 <br/>
 
-[![Сайт-резюме](https://img.shields.io/badge/work.pushkarev.online-6d28d9?style=for-the-badge&logo=safari&logoColor=white)](https://work.pushkarev.online)
-&nbsp;
 [![Написать](https://img.shields.io/badge/ilia%40pushkarev.online-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilia@pushkarev.online)
 
 </div>
