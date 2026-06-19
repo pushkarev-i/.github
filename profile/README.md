@@ -25,6 +25,6 @@
 
 <br/>
 
-[![Написать](https://img.shields.io/badge/ilia%40pushkarev.online-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilia@pushkarev.online)
+[![Написать](https://img.shields.io/badge/ilya%40pushkarev.online-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilya@pushkarev.online)
 
 </div>
